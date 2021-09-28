@@ -1,0 +1,17 @@
+{
+  "name": "adapt-contrib-slider",
+  "version": "3.3.1cn",
+  "framework": ">=5.5",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-slider",
+  "bugs": "https://github.com/adaptlearning/adapt-contrib-slider/issues",
+  "component" : "slider",
+  "targetAttribute": "_slider",
+  "displayName" : "滑动题",
+  "description": "一个问题组件，允许学习者在标尺上定位滑块",
+  "main": "/js/adapt-contrib-slider.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
